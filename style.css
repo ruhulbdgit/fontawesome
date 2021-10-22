@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: coral;
+}
+.abc{
+	text-align: center;
+	color:#fff;
+}
+.abc i{
+	font-size: 40px;
+	padding: 15px;
+}
